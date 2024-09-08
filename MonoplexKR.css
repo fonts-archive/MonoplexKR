@@ -5,6 +5,7 @@
     font-display: swap;
     src: url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKR/MonoplexKR-Thin.woff2') format('woff2'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKR/MonoplexKR-Thin.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKR/MonoplexKR-Thin.otf') format('opentype'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKR/MonoplexKR-Thin.ttf') format('truetype');
 }
 @font-face {
@@ -14,6 +15,7 @@
     font-display: swap;
     src: url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKR/MonoplexKR-ExtraLight.woff2') format('woff2'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKR/MonoplexKR-ExtraLight.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKR/MonoplexKR-ExtraLight.otf') format('opentype'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKR/MonoplexKR-ExtraLight.ttf') format('truetype');
 }
 @font-face {
@@ -23,6 +25,7 @@
     font-display: swap;
     src: url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKR/MonoplexKR-Light.woff2') format('woff2'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKR/MonoplexKR-Light.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKR/MonoplexKR-Light.otf') format('opentype'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKR/MonoplexKR-Light.ttf') format('truetype');
 }
 @font-face {
@@ -32,6 +35,7 @@
     font-display: swap;
     src: url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKR/MonoplexKR-Regular.woff2') format('woff2'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKR/MonoplexKR-Regular.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKR/MonoplexKR-Regular.otf') format('opentype'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKR/MonoplexKR-Regular.ttf') format('truetype');
 }
 @font-face {
@@ -41,6 +45,7 @@
     font-display: swap;
     src: url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKR/MonoplexKR-Medium.woff2') format('woff2'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKR/MonoplexKR-Medium.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKR/MonoplexKR-Medium.otf') format('opentype'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKR/MonoplexKR-Medium.ttf') format('truetype');
 }
 @font-face {
@@ -50,6 +55,7 @@
     font-display: swap;
     src: url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKR/MonoplexKR-SemiBold.woff2') format('woff2'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKR/MonoplexKR-SemiBold.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKR/MonoplexKR-SemiBold.otf') format('opentype'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKR/MonoplexKR-SemiBold.ttf') format('truetype');
 }
 @font-face {
@@ -59,6 +65,7 @@
     font-display: swap;
     src: url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKR/MonoplexKR-Bold.woff2') format('woff2'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKR/MonoplexKR-Bold.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKR/MonoplexKR-Bold.otf') format('opentype'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKR/MonoplexKR-Bold.ttf') format('truetype');
 }
 @font-face {
@@ -68,5 +75,6 @@
     font-display: swap;
     src: url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKR/MonoplexKR-ExtraBold.woff2') format('woff2'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKR/MonoplexKR-ExtraBold.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKR/MonoplexKR-ExtraBold.otf') format('opentype'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/MonoplexKR/MonoplexKR-ExtraBold.ttf') format('truetype');
 }
